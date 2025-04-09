@@ -6,4 +6,5 @@
 - ❤️ I’m looking for help with Excel and Google Sheets.
 - 💰 Ask me about Accouting, Finance and Sheets.
 - 📫 How to reach me: nathaliamainenti@gmail.com
+- 🎮 I enjoy games, music and movies.
 - 😄 Pronouns: She/Her
