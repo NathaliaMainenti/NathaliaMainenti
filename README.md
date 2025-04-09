@@ -1,8 +1,4 @@
-## Hi there 👋
-
-
-
-https://github.com/user-attachments/assets/3373d508-85b9-4b27-8470-87d2142cf738
+![Banner para Docs Proposta de EventoNegócio Estilo Clássico Acolhedor em Bege Marrom-escuro](https://github.com/user-attachments/assets/50409e4a-74a9-404b-acd5-d601f4646700)
 
 
 - 📊 I’m currently working in account control.
