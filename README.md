@@ -2,7 +2,7 @@
 
 - 📊 I’m currently working in account control.
 - 🐍 I’m currently learning Python and Machine Learning.
-- ❤️ I’m looking for help with Excel and Google Sheets.
+- ❗ I’m looking for help with Python and Data Science.
 - 💰 Ask me about Accouting, Finance and Sheets.
 - 📫 How to reach me: nathaliamainenti@gmail.com
 - 🎮 I enjoy games, music and movies.
