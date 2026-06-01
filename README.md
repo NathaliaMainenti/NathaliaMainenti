@@ -34,7 +34,8 @@
 - Pandas, NumPy & Scikit-learn  
 - Data visualization / BI  
 - Machine Learning models  
-- Finance + Data + Business  
+- Finance + Data + Business
+- SQL, PostgreSQL  
 
 ---
 
